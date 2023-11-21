@@ -50,4 +50,4 @@ jobs:
           app-name: 'AppJavaTest-KNS'
           slot-name: 'Production'
           package: '*.war'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_445A8BB1227E4EC197BAE56CAA1E7F77 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0E8CDB052656456189FF4C2699D2EB1D }}
